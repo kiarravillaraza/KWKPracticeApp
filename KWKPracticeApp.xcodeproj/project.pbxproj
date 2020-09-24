@@ -42,6 +42,7 @@
 		4708950D247A216700C326F0 /* xodisco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4708950C247A216600C326F0 /* xodisco.jpg */; };
 		4708950F247A230200C326F0 /* spice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4708950E247A230200C326F0 /* spice.jpg */; };
 		47089511247A230800C326F0 /* aspen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47089510247A230800C326F0 /* aspen.jpg */; };
+		47799C68251D48070000052C /* Documentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47799C67251D48070000052C /* Documentation.swift */; };
 		47DE86792475F3450044BA9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DE86782475F3450044BA9C /* AppDelegate.swift */; };
 		47DE867B2475F3450044BA9C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DE867A2475F3450044BA9C /* SceneDelegate.swift */; };
 		47DE867D2475F3450044BA9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DE867C2475F3450044BA9C /* ViewController.swift */; };
@@ -101,6 +102,7 @@
 		4708950C247A216600C326F0 /* xodisco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = xodisco.jpg; sourceTree = "<group>"; };
 		4708950E247A230200C326F0 /* spice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spice.jpg; sourceTree = "<group>"; };
 		47089510247A230800C326F0 /* aspen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aspen.jpg; sourceTree = "<group>"; };
+		47799C67251D48070000052C /* Documentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Documentation.swift; sourceTree = "<group>"; };
 		47DE86752475F3450044BA9C /* BID DAY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BID DAY.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47DE86782475F3450044BA9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47DE867A2475F3450044BA9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 				47DE86782475F3450044BA9C /* AppDelegate.swift */,
 				47DE867A2475F3450044BA9C /* SceneDelegate.swift */,
 				47DE867C2475F3450044BA9C /* ViewController.swift */,
+				47799C67251D48070000052C /* Documentation.swift */,
 				47DE867E2475F3450044BA9C /* Main.storyboard */,
 				47089510247A230800C326F0 /* aspen.jpg */,
 				4708950E247A230200C326F0 /* spice.jpg */,
@@ -356,6 +359,7 @@
 			files = (
 				47DE86832475F3450044BA9C /* KWKPracticeApp.xcdatamodeld in Sources */,
 				47DE867D2475F3450044BA9C /* ViewController.swift in Sources */,
+				47799C68251D48070000052C /* Documentation.swift in Sources */,
 				47DE86792475F3450044BA9C /* AppDelegate.swift in Sources */,
 				47DE86AA24760B760044BA9C /* SororityViewController.swift in Sources */,
 				47DE867B2475F3450044BA9C /* SceneDelegate.swift in Sources */,
